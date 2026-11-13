@@ -1,7 +1,9 @@
-# 🧑‍💻Introduction to Programming - BBM103
+# 🧑‍💻 Introduction to Programming - BBM103
 
-My first Python assignments, each a small puzzle or game built from scratch. Every folder has the assignment description, sample input/output files and my solution.
+My first steps in Python 🐍: small puzzles and games built from scratch.
 
-- **Sudoku:** Solves a 9x9 sudoku by repeatedly filling cells that have only one possible value, and logs each step.
-- **Board Game:** A number-grid game played in the terminal. Picking a cell clears its matching neighbors and adds to the score.
-- **Blind Valley:** A tile-placement puzzle with row and column limits.
+- 🔢 **Sudoku:** A solver that cracks a 9x9 sudoku one step at a time.
+- 🎲 **Board Game:** A number-grid game for the terminal. Matching neighbors disappear and points add up.
+- 🧩 **Blind Valley:** A tile-placement puzzle with row and column rules.
+
+📂 Each folder includes the assignment description, sample inputs and outputs, and my solution.
